@@ -2,19 +2,19 @@
   "/": [
     {
       "type": "script",
-      "href": "/assets/index-6b1b7231.js"
+      "href": "/assets/index-1b3a2b29.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client-fe3f0792.js"
+      "href": "/assets/entry-client-b1ae7792.js"
     },
     {
       "type": "style",
-      "href": "/assets/entry-client-a3c32461.css"
+      "href": "/assets/entry-client-9fe604f4.css"
     },
     {
       "type": "style",
-      "href": "/assets/index-4024c4f5.css"
+      "href": "/assets/index-4dd6d3d1.css"
     },
     {
       "type": "asset",
@@ -31,16 +31,20 @@
     {
       "type": "asset",
       "href": "/assets/pochta-tech-403a0ee3.png"
+    },
+    {
+      "type": "asset",
+      "href": "/assets/yandex-c8a4a22e.png"
     }
   ],
   "entry-client": [
     {
       "type": "script",
-      "href": "/assets/entry-client-fe3f0792.js"
+      "href": "/assets/entry-client-b1ae7792.js"
     },
     {
       "type": "style",
-      "href": "/assets/entry-client-a3c32461.css"
+      "href": "/assets/entry-client-9fe604f4.css"
     }
   ],
   "index.html": []
