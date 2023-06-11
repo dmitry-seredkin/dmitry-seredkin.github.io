@@ -1,6 +1,6 @@
 {
   "src/_routes/index.css": {
-    "file": "assets/index-4dd6d3d1.css",
+    "file": "assets/index-b3d3cb7c.css",
     "src": "src/_routes/index.css"
   },
   "src/_routes/index.ts": {
@@ -12,9 +12,9 @@
       "assets/yandex-c8a4a22e.png"
     ],
     "css": [
-      "assets/index-4dd6d3d1.css"
+      "assets/index-b3d3cb7c.css"
     ],
-    "file": "assets/index-1b3a2b29.js",
+    "file": "assets/index-3abc735d.js",
     "imports": [
       "src/entry-client.tsx"
     ],
@@ -22,17 +22,17 @@
     "src": "src/_routes/index.ts"
   },
   "src/entry-client.css": {
-    "file": "assets/entry-client-9fe604f4.css",
+    "file": "assets/entry-client-48eea331.css",
     "src": "src/entry-client.css"
   },
   "src/entry-client.tsx": {
     "css": [
-      "assets/entry-client-9fe604f4.css"
+      "assets/entry-client-48eea331.css"
     ],
     "dynamicImports": [
       "src/_routes/index.ts"
     ],
-    "file": "assets/entry-client-b1ae7792.js",
+    "file": "assets/entry-client-93ff811b.js",
     "isEntry": true,
     "src": "src/entry-client.tsx"
   },

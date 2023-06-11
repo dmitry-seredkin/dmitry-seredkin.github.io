@@ -14,8 +14,8 @@
   "node_modules/@solidjs/router/dist/utils.js": [
   ],
   "node_modules/clsx/dist/clsx.m.js": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -43,8 +43,8 @@
   "node_modules/solid-start/server/types.tsx": [
   ],
   "src/_routes/index.ts": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -56,8 +56,8 @@
   "src/app/app.tsx": [
   ],
   "src/entities/education-card/education-card.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -65,8 +65,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/entities/experience-card/experience-card.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -74,8 +74,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/entities/skill-card/skill-card.module.scss?used": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -83,8 +83,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/entities/skill-card/skill-card.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -94,8 +94,8 @@
   "src/entry-client.tsx": [
   ],
   "src/features/education/education.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -103,8 +103,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/features/introduction/introduction.module.scss?used": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -112,8 +112,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/features/introduction/introduction.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -121,8 +121,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/features/social-links/social-links.module.scss?used": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -130,8 +130,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/features/social-links/social-links.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -139,8 +139,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/features/technical-skills/technical-skills.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -148,8 +148,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/features/work-experience/work-experience.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -157,8 +157,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/pages/home/home.module.scss?used": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -166,8 +166,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/pages/home/home.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -175,8 +175,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/api/index.ts": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -184,8 +184,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/images/etu.png": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -193,8 +193,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/images/it2g.jpg": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -202,8 +202,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/images/nineone.png": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -211,8 +211,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/images/pochta-tech.png": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -220,8 +220,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/images/yandex.png": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -229,8 +229,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/svg/css3.svg?component-solid": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -238,8 +238,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/svg/github.svg?component-solid": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -247,8 +247,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/svg/html5.svg?component-solid": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -256,8 +256,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/svg/javascript.svg?component-solid": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -265,8 +265,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/svg/linkedin.svg?component-solid": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -274,8 +274,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/svg/react.svg?component-solid": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -283,8 +283,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/svg/telegram.svg?component-solid": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -292,8 +292,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/svg/typescript.svg?component-solid": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -301,8 +301,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/svg/whatsapp.svg?component-solid": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -310,8 +310,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/button/button.module.scss?used": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -319,8 +319,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/button/button.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -328,8 +328,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/card/card.module.scss?used": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -337,8 +337,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/card/card.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -346,8 +346,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/date-range/date-range.module.scss?used": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -355,8 +355,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/date-range/date-range.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -364,8 +364,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/list/list.module.scss?used": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -373,8 +373,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/list/list.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -382,8 +382,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/section/section.module.scss?used": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -391,8 +391,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/section/section.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -400,8 +400,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/widgets/resume/resume.module.scss?used": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -409,8 +409,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/widgets/resume/resume.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -418,8 +418,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/widgets/welcome/welcome.module.scss?used": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
@@ -427,8 +427,8 @@
     "/assets/yandex-c8a4a22e.png"
   ],
   "src/widgets/welcome/welcome.tsx": [
-    "/assets/index-1b3a2b29.js",
-    "/assets/index-4dd6d3d1.css",
+    "/assets/index-3abc735d.js",
+    "/assets/index-b3d3cb7c.css",
     "/assets/etu-753474f9.png",
     "/assets/it2g-1ca12ea3.jpg",
     "/assets/nineone-1c083442.png",
