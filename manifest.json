@@ -14,7 +14,7 @@
     "css": [
       "assets/index-b3d3cb7c.css"
     ],
-    "file": "assets/index-3abc735d.js",
+    "file": "assets/index-4dc23139.js",
     "imports": [
       "src/entry-client.tsx"
     ],
@@ -32,7 +32,7 @@
     "dynamicImports": [
       "src/_routes/index.ts"
     ],
-    "file": "assets/entry-client-93ff811b.js",
+    "file": "assets/entry-client-04645600.js",
     "isEntry": true,
     "src": "src/entry-client.tsx"
   },
