@@ -1,50 +1,54 @@
 {
+  "/en": [
+    {
+      "type": "script",
+      "href": "/assets/en-9659dde3.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/entry-client-2761189c.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/entry-client-b54d7278.css"
+    }
+  ],
   "/": [
     {
       "type": "script",
-      "href": "/assets/index-4dc23139.js"
+      "href": "/assets/index-9659dde3.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client-04645600.js"
+      "href": "/assets/entry-client-2761189c.js"
     },
     {
       "type": "style",
-      "href": "/assets/entry-client-48eea331.css"
+      "href": "/assets/entry-client-b54d7278.css"
+    }
+  ],
+  "/ru": [
+    {
+      "type": "script",
+      "href": "/assets/ru-9659dde3.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/entry-client-2761189c.js"
     },
     {
       "type": "style",
-      "href": "/assets/index-b3d3cb7c.css"
-    },
-    {
-      "type": "asset",
-      "href": "/assets/etu-753474f9.png"
-    },
-    {
-      "type": "asset",
-      "href": "/assets/it2g-1ca12ea3.jpg"
-    },
-    {
-      "type": "asset",
-      "href": "/assets/nineone-1c083442.png"
-    },
-    {
-      "type": "asset",
-      "href": "/assets/pochta-tech-403a0ee3.png"
-    },
-    {
-      "type": "asset",
-      "href": "/assets/yandex-c8a4a22e.png"
+      "href": "/assets/entry-client-b54d7278.css"
     }
   ],
   "entry-client": [
     {
       "type": "script",
-      "href": "/assets/entry-client-04645600.js"
+      "href": "/assets/entry-client-2761189c.js"
     },
     {
       "type": "style",
-      "href": "/assets/entry-client-48eea331.css"
+      "href": "/assets/entry-client-b54d7278.css"
     }
   ],
   "index.html": []

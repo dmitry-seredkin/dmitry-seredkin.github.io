@@ -1,5 +1,13 @@
 {
+  "\u0000C:/Users/dimsf/projects/brand/brand-website/node_modules/call-bind/index.js?commonjs-module": [
+  ],
+  "\u0000__vite-browser-external?commonjs-proxy": [
+  ],
+  "\u0000commonjsHelpers.js": [
+  ],
   "\u0000vite/preload-helper": [
+  ],
+  "__vite-browser-external": [
   ],
   "node_modules/@solidjs/meta/dist/index.jsx": [
   ],
@@ -13,18 +21,45 @@
   ],
   "node_modules/@solidjs/router/dist/utils.js": [
   ],
+  "node_modules/call-bind/callBound.js": [
+  ],
+  "node_modules/call-bind/index.js": [
+  ],
   "node_modules/clsx/dist/clsx.m.js": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
+  ],
+  "node_modules/function-bind/implementation.js": [
+  ],
+  "node_modules/function-bind/index.js": [
+  ],
+  "node_modules/get-intrinsic/index.js": [
+  ],
+  "node_modules/has-symbols/index.js": [
+  ],
+  "node_modules/has-symbols/shams.js": [
+  ],
+  "node_modules/has/src/index.js": [
+  ],
+  "node_modules/object-inspect/index.js": [
+  ],
+  "node_modules/qs/lib/formats.js": [
+  ],
+  "node_modules/qs/lib/index.js": [
+  ],
+  "node_modules/qs/lib/parse.js": [
+  ],
+  "node_modules/qs/lib/stringify.js": [
+  ],
+  "node_modules/qs/lib/utils.js": [
+  ],
+  "node_modules/side-channel/index.js": [
   ],
   "node_modules/solid-js/dist/solid.js": [
   ],
+  "node_modules/solid-js/store/dist/store.js": [
+  ],
   "node_modules/solid-js/web/dist/web.js": [
+  ],
+  "node_modules/solid-start/data/createRouteData.tsx": [
   ],
   "node_modules/solid-start/entry-client/StartClient.tsx": [
   ],
@@ -38,401 +73,111 @@
   ],
   "node_modules/solid-start/root/Scripts.tsx": [
   ],
+  "node_modules/solid-start/router.tsx": [
+  ],
   "node_modules/solid-start/server/ServerContext.tsx": [
+  ],
+  "node_modules/solid-start/server/responses.ts": [
   ],
   "node_modules/solid-start/server/types.tsx": [
   ],
+  "src/_routes/en.ts": [
+    "/assets/en-9659dde3.js"
+  ],
   "src/_routes/index.ts": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
+    "/assets/index-9659dde3.js"
+  ],
+  "src/_routes/ru.ts": [
+    "/assets/ru-9659dde3.js"
   ],
   "src/app/app.scss": [
   ],
   "src/app/app.tsx": [
   ],
+  "src/app/providers/i18n.tsx": [
+  ],
   "src/entities/education-card/education-card.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/entities/experience-card/experience-card.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/entities/skill-card/skill-card.module.scss?used": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/entities/skill-card/skill-card.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/entry-client.tsx": [
   ],
   "src/features/education/education.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/features/introduction/introduction.module.scss?used": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/features/introduction/introduction.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/features/social-links/social-links.module.scss?used": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/features/social-links/social-links.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/features/technical-skills/technical-skills.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/features/work-experience/work-experience.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/pages/home/home.module.scss?used": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/pages/home/home.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
+  ],
+  "src/shared/api/base/request-api.ts": [
+  ],
+  "src/shared/api/base/request.ts": [
+  ],
+  "src/shared/api/base/transformers.ts": [
+  ],
+  "src/shared/api/educations.ts": [
+  ],
+  "src/shared/api/experiences.ts": [
   ],
   "src/shared/api/index.ts": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
-  ],
-  "src/shared/assets/images/etu.png": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
-  ],
-  "src/shared/assets/images/it2g.jpg": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
-  ],
-  "src/shared/assets/images/nineone.png": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
-  ],
-  "src/shared/assets/images/pochta-tech.png": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
-  ],
-  "src/shared/assets/images/yandex.png": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
-  ],
-  "src/shared/assets/svg/css3.svg?component-solid": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/svg/github.svg?component-solid": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
-  ],
-  "src/shared/assets/svg/html5.svg?component-solid": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
-  ],
-  "src/shared/assets/svg/javascript.svg?component-solid": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/svg/linkedin.svg?component-solid": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
-  ],
-  "src/shared/assets/svg/react.svg?component-solid": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/svg/telegram.svg?component-solid": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
-  ],
-  "src/shared/assets/svg/typescript.svg?component-solid": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/assets/svg/whatsapp.svg?component-solid": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/button/button.module.scss?used": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/button/button.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/card/card.module.scss?used": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/card/card.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/date-range/date-range.module.scss?used": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/date-range/date-range.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
+  ],
+  "src/shared/components/image/image.tsx": [
   ],
   "src/shared/components/list/list.module.scss?used": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/list/list.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/section/section.module.scss?used": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/shared/components/section/section.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
+  ],
+  "src/shared/contexts/i18n.ts": [
+  ],
+  "src/shared/models/enums/locale.ts": [
+  ],
+  "src/shared/utils/log.ts": [
   ],
   "src/widgets/resume/resume.module.scss?used": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/widgets/resume/resume.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/widgets/welcome/welcome.module.scss?used": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ],
   "src/widgets/welcome/welcome.tsx": [
-    "/assets/index-4dc23139.js",
-    "/assets/index-b3d3cb7c.css",
-    "/assets/etu-753474f9.png",
-    "/assets/it2g-1ca12ea3.jpg",
-    "/assets/nineone-1c083442.png",
-    "/assets/pochta-tech-403a0ee3.png",
-    "/assets/yandex-c8a4a22e.png"
   ]
 }
