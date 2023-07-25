@@ -2,11 +2,11 @@
   "/en": [
     {
       "type": "script",
-      "href": "/assets/en-9659dde3.js"
+      "href": "/assets/en-46e949ac.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client-2761189c.js"
+      "href": "/assets/entry-client-a451672d.js"
     },
     {
       "type": "style",
@@ -16,11 +16,11 @@
   "/": [
     {
       "type": "script",
-      "href": "/assets/index-9659dde3.js"
+      "href": "/assets/index-46e949ac.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client-2761189c.js"
+      "href": "/assets/entry-client-a451672d.js"
     },
     {
       "type": "style",
@@ -30,11 +30,11 @@
   "/ru": [
     {
       "type": "script",
-      "href": "/assets/ru-9659dde3.js"
+      "href": "/assets/ru-46e949ac.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client-2761189c.js"
+      "href": "/assets/entry-client-a451672d.js"
     },
     {
       "type": "style",
@@ -44,7 +44,7 @@
   "entry-client": [
     {
       "type": "script",
-      "href": "/assets/entry-client-2761189c.js"
+      "href": "/assets/entry-client-a451672d.js"
     },
     {
       "type": "style",
