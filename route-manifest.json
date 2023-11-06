@@ -2,25 +2,25 @@
   "/": [
     {
       "type": "script",
-      "href": "/assets/index-47a2d83b.js"
+      "href": "/assets/index-dacc4beb.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client-e9b480e9.js"
+      "href": "/assets/entry-client-71a1eda6.js"
     },
     {
       "type": "style",
-      "href": "/assets/entry-client-9ffe0ff6.css"
+      "href": "/assets/entry-client-13dee224.css"
     }
   ],
   "entry-client": [
     {
       "type": "script",
-      "href": "/assets/entry-client-e9b480e9.js"
+      "href": "/assets/entry-client-71a1eda6.js"
     },
     {
       "type": "style",
-      "href": "/assets/entry-client-9ffe0ff6.css"
+      "href": "/assets/entry-client-13dee224.css"
     }
   ],
   "index.html": []
