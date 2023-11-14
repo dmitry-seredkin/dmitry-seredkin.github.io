@@ -82,7 +82,7 @@
   "node_modules/solid-start/server/types.tsx": [
   ],
   "src/_routes/index.ts": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/app/app.scss": [
   ],
@@ -91,25 +91,25 @@
   "src/app/providers.tsx": [
   ],
   "src/entities/contact.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/entities/experience-card.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/entities/technology-card/technology-card.module.scss?used": [
   ],
   "src/entities/technology-card/technology-card.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/entry-client.tsx": [
   ],
   "src/features/social-media.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/pages/landing/landing.data.ts": [
   ],
   "src/pages/landing/landing.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/shared/api/about.ts": [
   ],
@@ -156,49 +156,53 @@
   "src/shared/components/button/button.module.scss?used": [
   ],
   "src/shared/components/button/button.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/shared/components/button/download-button.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/shared/components/card/card.module.scss?used": [
   ],
   "src/shared/components/card/card.tsx": [
   ],
+  "src/shared/components/card/double-sided-card/double-sided-card.module.scss?used": [
+  ],
+  "src/shared/components/card/double-sided-card/double-sided-card.tsx": [
+  ],
   "src/shared/components/date/date-range.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/shared/components/date/formatted-date.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/shared/components/icons/icon-base.module.scss?used": [
   ],
   "src/shared/components/icons/icon-base.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/shared/components/icons/index.ts": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/shared/components/icons/svg/cellphone.svg?component-solid": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/shared/components/icons/svg/email-outline.svg?component-solid": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/shared/components/icons/svg/github.svg?component-solid": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/shared/components/icons/svg/linkedin.svg?component-solid": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/shared/components/icons/svg/location.svg?component-solid": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/shared/components/icons/svg/telegram.svg?component-solid": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/shared/components/icons/svg/whatsapp.svg?component-solid": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/shared/components/image/image.module.scss?used": [
   ],
@@ -211,7 +215,7 @@
   "src/shared/components/inner-html/inner-html.module.scss?used": [
   ],
   "src/shared/components/inner-html/inner-html.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/shared/components/layout/layout.module.scss?used": [
   ],
@@ -243,8 +247,6 @@
   ],
   "src/shared/utils/functional.ts": [
   ],
-  "src/shared/utils/log.ts": [
-  ],
   "src/shared/utils/mappers.ts": [
   ],
   "src/shared/utils/parse.ts": [
@@ -256,29 +258,29 @@
   "src/widgets/about.module.scss?used": [
   ],
   "src/widgets/about.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/widgets/contacts.module.scss?used": [
   ],
   "src/widgets/contacts.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/widgets/experience.module.scss?used": [
   ],
   "src/widgets/experience.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/widgets/footer.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/widgets/introduction.module.scss?used": [
   ],
   "src/widgets/introduction.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ],
   "src/widgets/technologies.module.scss?used": [
   ],
   "src/widgets/technologies.tsx": [
-    "/assets/index-1d7fdebe.js"
+    "/assets/index-be39a7d0.js"
   ]
 }
