@@ -1,6 +1,6 @@
 {
   "src/_routes/index.ts": {
-    "file": "assets/index-d57e21f8.js",
+    "file": "assets/index-90598193.js",
     "imports": [
       "src/entry-client.tsx"
     ],
@@ -8,17 +8,17 @@
     "src": "src/_routes/index.ts"
   },
   "src/entry-client.css": {
-    "file": "assets/entry-client-ecdd9020.css",
+    "file": "assets/entry-client-6bb846f9.css",
     "src": "src/entry-client.css"
   },
   "src/entry-client.tsx": {
     "css": [
-      "assets/entry-client-ecdd9020.css"
+      "assets/entry-client-6bb846f9.css"
     ],
     "dynamicImports": [
       "src/_routes/index.ts"
     ],
-    "file": "assets/entry-client-b96ff21b.js",
+    "file": "assets/entry-client-7334c189.js",
     "isEntry": true,
     "src": "src/entry-client.tsx"
   }
