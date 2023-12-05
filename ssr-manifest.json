@@ -82,59 +82,61 @@
   "node_modules/solid-start/server/types.tsx": [
   ],
   "src/_routes/index.ts": [
-    "/assets/index-305d690b.js"
-  ],
-  "src/app/app.scss": [
+    "/assets/index-177c20b3.js"
   ],
   "src/app/app.tsx": [
+  ],
+  "src/app/global.scss": [
   ],
   "src/app/providers.tsx": [
   ],
   "src/entities/contact.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/entities/experience-card.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/entities/project-card.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/entities/technology-card/technology-card.module.scss?used": [
   ],
   "src/entities/technology-card/technology-card.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/entry-client.tsx": [
   ],
   "src/features/social-media.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/pages/landing/landing.data.ts": [
   ],
   "src/pages/landing/landing.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
-  "src/shared/api/about.ts": [
+  "src/shared/api/endpoints/about.ts": [
   ],
-  "src/shared/api/base/request-api.ts": [
+  "src/shared/api/endpoints/contacts.ts": [
   ],
-  "src/shared/api/base/request.ts": [
+  "src/shared/api/endpoints/educations.ts": [
   ],
-  "src/shared/api/contacts.ts": [
+  "src/shared/api/endpoints/experiences.ts": [
   ],
-  "src/shared/api/educations.ts": [
+  "src/shared/api/endpoints/introduction.ts": [
   ],
-  "src/shared/api/experiences.ts": [
+  "src/shared/api/endpoints/landing.ts": [
   ],
-  "src/shared/api/introduction.ts": [
+  "src/shared/api/endpoints/localizations.ts": [
   ],
-  "src/shared/api/landing.ts": [
+  "src/shared/api/endpoints/media.ts": [
   ],
-  "src/shared/api/localizations.ts": [
+  "src/shared/api/endpoints/meta.ts": [
   ],
-  "src/shared/api/media.ts": [
+  "src/shared/api/endpoints/technologies.ts": [
   ],
-  "src/shared/api/technologies.ts": [
+  "src/shared/api/request/request.ts": [
+  ],
+  "src/shared/api/request/request.utils.ts": [
   ],
   "src/shared/components/box/box.scss": [
   ],
@@ -157,18 +159,18 @@
   "src/shared/components/button/button.module.scss?used": [
   ],
   "src/shared/components/button/button.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/button/copy-button.module.scss?used": [
   ],
   "src/shared/components/button/copy-button.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/button/download-button.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/button/external-link.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/card/card.module.scss?used": [
   ],
@@ -181,47 +183,47 @@
   "src/shared/components/controls/toggle/toggle.module.scss?used": [
   ],
   "src/shared/components/controls/toggle/toggle.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/date/date-range.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/date/formatted-date.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/icons/content-copy.module.scss?used": [
   ],
   "src/shared/components/icons/content-copy.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/icons/icon-base.module.scss?used": [
   ],
   "src/shared/components/icons/icon-base.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/icons/index.ts": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/icons/svg/cellphone.svg?component-solid": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/icons/svg/email-outline.svg?component-solid": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/icons/svg/github.svg?component-solid": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/icons/svg/linkedin.svg?component-solid": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/icons/svg/location.svg?component-solid": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/icons/svg/telegram.svg?component-solid": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/icons/svg/whatsapp.svg?component-solid": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/image/advanced-media-image.tsx": [
   ],
@@ -236,13 +238,17 @@
   "src/shared/components/inner-html/inner-html.module.scss?used": [
   ],
   "src/shared/components/inner-html/inner-html.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/layout/layout.module.scss?used": [
   ],
   "src/shared/components/layout/layout.tsx": [
   ],
   "src/shared/components/list/list.tsx": [
+    "/assets/index-177c20b3.js"
+  ],
+  "src/shared/components/meta/script.tsx": [
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/components/typography/typography.module.scss?used": [
   ],
@@ -251,10 +257,6 @@
   "src/shared/contexts/i18n.context.ts": [
   ],
   "src/shared/contexts/i18n.provider.tsx": [
-  ],
-  "src/shared/contexts/navigation.context.ts": [
-  ],
-  "src/shared/contexts/navigation.provider.tsx": [
   ],
   "src/shared/contexts/theme.context.ts": [
   ],
@@ -265,7 +267,7 @@
   "src/shared/models/enums.ts": [
   ],
   "src/shared/utils/copy.ts": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/utils/decode.ts": [
   ],
@@ -274,7 +276,7 @@
   "src/shared/utils/functional.ts": [
   ],
   "src/shared/utils/log.ts": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/shared/utils/mappers.ts": [
   ],
@@ -287,29 +289,37 @@
   "src/widgets/about.module.scss?used": [
   ],
   "src/widgets/about.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/widgets/contacts.module.scss?used": [
   ],
   "src/widgets/contacts.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/widgets/experience.module.scss?used": [
   ],
   "src/widgets/experience.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/widgets/footer.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ],
   "src/widgets/introduction.module.scss?used": [
   ],
   "src/widgets/introduction.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
+  ],
+  "src/widgets/navigation.module.scss?used": [
+  ],
+  "src/widgets/navigation.tsx": [
+    "/assets/index-177c20b3.js"
+  ],
+  "src/widgets/page-meta.tsx": [
+    "/assets/index-177c20b3.js"
   ],
   "src/widgets/technologies.module.scss?used": [
   ],
   "src/widgets/technologies.tsx": [
-    "/assets/index-305d690b.js"
+    "/assets/index-177c20b3.js"
   ]
 }
